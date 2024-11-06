@@ -2,6 +2,8 @@
 
 A streaming selection and book cataloging application that allows users to register and evaluate books across different platforms. This MVP (Minimum Viable Product) project connects with a dedicated API for book evaluation and registration.
 
+![LSCC-callout](https://github.com/user-attachments/assets/946818cb-85c7-405c-986f-98966623bed1)
+
 ## 🎯 Features
 
 - Book registration with streaming platform selection
